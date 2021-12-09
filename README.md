@@ -1,6 +1,7 @@
-## Hello Keith!
+# Hello Keith!
 
-This is my submission for lab 10. I used one of the sprites (which was difficulties because of the weird naming issue with assets) from the p5.play library 🦄
+This is my submission for lab 10. I used one of the sprites (which was difficulties because of the weird naming issue with assets) from the p5.play library.
+I created a little sprite named "Bubs". 🦄
 
 ## What's in this project?
 
