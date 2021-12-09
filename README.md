@@ -1,6 +1,6 @@
-# Hello website!
+## Hello Keith!
 
-This is a basic HTML starter project you can build on however you like. No need to save. While you develop your site, your changes will happen ✨ immediately in the preview window. On the left you'll see the files that make up your site, including HTML, JavaScript, and CSS. You can upload assets like images or audio in `assets`. The rest is up to you and your imagination. 🦄
+This is my submission for lab 10. I used one of the sprites (which was difficulties because of the weird naming issue with assets) from the p5.play library 🦄
 
 ## What's in this project?
 
