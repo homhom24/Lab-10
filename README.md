@@ -3,29 +3,19 @@
 This is my submission for lab 10. I used one of the sprites (which was difficulties because of the weird naming issue with assets) from the p5.play library.
 I created a little sprite named "Bubs". 🦄
 
-## What's in this project?
+## Lab Comment
 
-← `README.md`: That's this file, where you can tell people what your cool website does and how you built it.
+Hominy McMahon <hm1795@bard.edu>
 
-← `index.html`: This is the main web page for your site. The HTML defines the structure and content of the page using _elements_. You'll see references in the HTML to the JS and CSS files. Try clicking the image in the center of the page!
+12/09/2021
 
-← `style.css`: CSS files add styling rules to your content. The CSS applies styles to the elements in your HTML page. The style rules also make the image move when you click it.
+CMSC 141
 
-← `script.js`: If you're feeling fancy you can add interactivity to your site with JavaScript. The code in the JavaScript file runs when the page loads, and when the visitor clicks the button you can add below.
+Lab 10: Processing on the Web
 
-Open each file and check out the comments (in gray) for more info.
-
-## Try this next 🏗️
-
-Take a look in `TODO.md` for next steps you can try out in your new site!
-
-___Want a minimal version of this project to build your own website? Check out [Blank Website](https://glitch.com/edit/#!/remix/glitch-blank-website)!___
-
-![Glitch](https://cdn.glitch.com/a9975ea6-8949-4bab-addb-8a95021dc2da%2FLogo_Color.svg?v=1602781328576)
-
-## You built this with Glitch!
-
-[Glitch](https://glitch.com) is a friendly community where millions of people come together to build web apps and websites.
-
-- Need more help? [Check out our Help Center](https://help.glitch.com/) for answers to any common questions.
-- Ready to make it official? [Become a paid Glitch member](https://glitch.com/pricing) to boost your app with private sharing, more storage and memory, domains and more.
+I worked on this lab by myself with some help from the tutor Arnav.
+He helped me move everything on glitch and figure out how to get the sprites to
+show up initially. There was an issue with the actual name of the files in the assets
+folder since what was shown didn't actually pull up the image. It had to be clicked
+on to see the actual title. I'm planning to use sprites (of my own creation) in my final
+project so this was pretty informative for me. 
